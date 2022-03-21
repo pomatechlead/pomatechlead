@@ -98,7 +98,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-💬 Telegram : @fullstack_mogw <br />
+💬 Telegram : https://t.me/pomatechlead <br />
 📝 Email : pomatechlead@gmail.com <br />
 💫 Skype: live:bry8088 <br />
 
