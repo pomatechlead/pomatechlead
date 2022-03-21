@@ -12,8 +12,8 @@
 
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogw&layout=compact&theme=gotham&count_private=true">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mogw&show_icons=true&theme=gotham&count_private=true">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pomatechlead&layout=compact&theme=gotham&count_private=true">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=pomatechlead&show_icons=true&theme=gotham&count_private=true">
 </div>
 
 <br />
@@ -94,11 +94,11 @@
 
 <br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mogw&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pomatechlead&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 💬 Telegram : @fullstack_mogw <br />
 📝 Email : pomatechlead@gmail.com <br />
-💫 Skype: live:mogwinfo <br />
+💫 Skype: live:bry8088 <br />
 
