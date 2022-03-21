@@ -1,4 +1,4 @@
-### Fullstack Blockchain developer with strong knowledge and 3+ years hands-on experience in <br />
+### Blockchain Engineer, Tokenomics Expert and Web3 Developer with 4 years experience <br />
 
 ✅    Solidity, Rust, Hardhat, Truffle <br />
 ✅    Web3, Ethersjs <br />
@@ -6,15 +6,10 @@
 ✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
 ✅    GameFi (PlayToEarn Games, PvP, PvE)
 
-###  Competent Web developer with 8+ years experience in <br />
+###  Competent Web developer with 8+ years experience <br />
 ✅    Typescript, React.js, Redux, Node.js, Express.js, Next.js, Gatsby.js, Typescript <br />
 ✅    Python/Django, Flask, PHP/Laravel,  <br />
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-💬 Telegram : @fullstack_mogw <br />
-📝 Email : mogwinfo@gmail.com <br />
-💫 Skype: live:mogwinfo <br />
 
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogw&layout=compact&theme=gotham&count_private=true">
@@ -100,4 +95,10 @@
 <br/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mogw&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+💬 Telegram : @fullstack_mogw <br />
+📝 Email : pomatechlead@gmail.com <br />
+💫 Skype: live:mogwinfo <br />
 
