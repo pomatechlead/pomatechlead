@@ -1,15 +1,22 @@
-### Blockchain Engineer, Tokenomics Expert and Web3 Developer with 4 years experience <br />
+<h2 align='center'>
+  Blockchain Engineer | DApp Developer
+</h2>
 
-✅    Solidity, Rust, Hardhat, Truffle <br />
-✅    Web3, Ethersjs <br />
-✅    DeFi, Dex, Stacking, Yield Farming, Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon..) <br />
-✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
-✅    GameFi (PlayToEarn Games, PvP, PvE)
+## 🧑 About me:
 
-###  Competent Web developer with 8+ years experience <br />
-✅    Typescript, React.js, Redux, Node.js, Express.js, Next.js, Gatsby.js, Typescript <br />
-✅    Python/Django, Flask, PHP/Laravel,  <br />
+<p>
+Experienced blockchain architect, smart contracts coder and tokenomics expert. <br>
+I have developed more than 50+ websites for clients and delivered large web-based DeFi/web3 and blockchain applications throughout my career.
+I have worked in the financial, capital markets, and payments space and have great experience in the smart contract development and UI integration.
+</p>
 
+<h2>🥇 Specialised in:</h2>
+<p> 🔸 Solidity, Rust, Hardhat, Truffle
+<br>🔸 DeFi, DAO, Play2Earn Game, PancakeSwap, Uniswap V3, Smart Contract, Ethereum, BSC, Polkadot, Avalanche
+<br>🔸 Web3.js, Ether.js, React.js, Redux, Node.js, Next.js, Vue.js
+<br>🔸 Typesecript, Python/Django, PHP/Laravel
+<br>🔸 AWS, Heroku, Digital Ocean
+<p>
 
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pomatechlead&layout=compact&theme=gotham&count_private=true">
@@ -23,8 +30,6 @@
 </div>
 
 <br />
-
-**Languages and Tools:**  
 
 <table>
   <tr>
