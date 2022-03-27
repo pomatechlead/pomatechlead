@@ -13,6 +13,7 @@ I have worked in the financial, capital markets, and payments space and have gre
 <h2>🥇 Specialised in:</h2>
 <p> 🔸 Solidity, Rust, Hardhat, Truffle
 <br>🔸 DeFi, DAO, Play2Earn Game, PancakeSwap, Uniswap V3, Smart Contract, Ethereum, BSC, Polkadot, Avalanche
+<br>🔸 ERC20, ERC721, ERC1155
 <br>🔸 Web3.js, Ether.js, React.js, Redux, Node.js, Next.js, Vue.js
 <br>🔸 Typesecript, Python/Django, PHP/Laravel
 <br>🔸 AWS, Heroku, Digital Ocean
