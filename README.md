@@ -7,7 +7,7 @@
 <p>
 Experienced blockchain architect, smart contracts coder and tokenomics expert. <br>
 I have developed more than 50+ websites for clients and delivered large web-based DeFi/web3 and blockchain applications throughout my career.
-I have worked in the financial, capital markets, and payments space and have great experience in the smart contract development and UI integration..
+I have worked in the financial, capital markets, and payments space and have great experience in the smart contract development and UI integration.
 </p>
 
 <h2>🥇 Specialised in:</h2>
