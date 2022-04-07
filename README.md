@@ -2,6 +2,10 @@
   <img align="center" src="https://pomatech.netlify.app/img/pederson.jpg" style = "width: -webkit-fill-available;"/>
 </div>
 
+<p align="center">
+  <a href="https://github.com/zogmwa"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20blockchain%20Engineer;5+%2B%20years%20of%20hands-on%20experience;10+%2B%20years%20of%20web%20developing%20experience;&center=true&width=800&height=45"></a>
+</p>
+
 ## 🧑 About me:
 
 <p>
