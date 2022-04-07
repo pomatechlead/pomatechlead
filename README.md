@@ -1,10 +1,12 @@
-<div align="center" style="position: relative;">
+<div align="center" style="position: relative; border-radius: 4px">
   <img align="center" src="https://pomatech.netlify.app/img/pederson.jpg" style = "width: -webkit-fill-available;"/>
 </div>
 
-<p align="center" style="margin-top: 20px">
-  <a href="https://github.com/zogmwa"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20blockchain%20Engineer;5+%2B%20years%20of%20hands-on%20experience;10+%2B%20years%20of%20web%20developing%20experience;&center=true&width=800&height=45"></a>
-</p>
+<div style="margin: 10px 0px;">
+  <p align="center">
+    <a href="https://github.com/zogmwa"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20blockchain%20Engineer;5+%2B%20years%20of%20hands-on%20experience;10+%2B%20years%20of%20web%20developing%20experience;&center=true&width=800&height=45"></a>
+  </p>
+</div>
 
 <div style="margin: 10px 0px; border-bottom: solid 1px white;">
   <a href="https://github.com/zogmwa"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
