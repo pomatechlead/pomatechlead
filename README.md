@@ -1,6 +1,6 @@
-<h2 align='center'>
-  Blockchain Engineer | DApp Developer
-</h2>
+<div align="center" style="position: relative;">
+  <img align="center" src="https://pomatech.netlify.app/img/pederson.jpg" style = "width: -webkit-fill-available;"/>
+</div>
 
 ## 🧑 About me:
 
