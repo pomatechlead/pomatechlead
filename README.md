@@ -6,6 +6,13 @@
   <a href="https://github.com/zogmwa"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20blockchain%20Engineer;5+%2B%20years%20of%20hands-on%20experience;10+%2B%20years%20of%20web%20developing%20experience;&center=true&width=800&height=45"></a>
 </p>
 
+<div style="margin: 10px 0px; border-bottom: solid 1px white;">
+  <a href="https://github.com/zogmwa"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+  <a href="https://github.com/zogmwa"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></a>
+  <a href="https://github.com/zogmwa"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></a>
+</div>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
+
 ## 🧑 About me:
 
 <p>
