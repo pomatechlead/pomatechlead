@@ -51,5 +51,5 @@ I have worked in the financial, capital markets, and payments space and have gre
 
 💬 Telegram : https://t.me/pomatechlead <br />
 📝 Email : pomatechlead@gmail.com <br />
-💫 Skype: live:bry8088 <br />
+💫 Skype: live:.cid.aa0164f6fad182ff <br />
 
