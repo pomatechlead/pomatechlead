@@ -1,10 +1,10 @@
-### 🌱 Make it work, make it right, make it fast.🔥
+### 🌱 Make it work, make it right, make it fast
 
 ### Fullstack Blockchain developer with strong knowledge and hands-on experience in <br />
 
-✅    Solidity, Hardhat, Truffle, Rust <br />
-✅    React, NextJs, JS/TS, Web3, Ethersjs <br />
-✅    DeFi, Dex Vault from Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon, Avalanche, etc) <br />
+✅    Solidity, Rust, Hardhat, Truffle <br />
+✅    Node.js, React, NextJs, JS/TS, Web3, Ethersjs <br />
+✅    DeFi, Dex Vault from Uniswap, DAO, Reflection token, PancakeSwap on multichain(Ethereum, BSC, Polygon, Avalanche, etc) <br />
 ✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
 
 <br />
@@ -55,6 +55,5 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 💬 Telegram : https://t.me/pomatechlead <br />
-📝 Email : pomatechlead@gmail.com <br />
 💫 Skype: live:.cid.aa0164f6fad182ff <br />
 
