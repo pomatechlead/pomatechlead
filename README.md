@@ -1,51 +1,56 @@
-<div align="center" style="position: relative; border-radius: 4px">
-  <img align="center" src="https://pomatech.netlify.app/img/pederson.jpg" style = "width: -webkit-fill-available;"/>
-</div>
+### 🌱 Make it work, make it right, make it fast.🔥
 
-<div style="padding: 10px 0px;">
-  <p align="center">
-    <a href="https://github.com/pomatechlead"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20blockchain%20Engineer;5+%2B%20years%20of%20hands-on%20experience;10+%2B%20years%20of%20web%20developing%20experience;&center=true&width=800&height=75"></a>
-  </p>
-</div>
+### Fullstack Blockchain developer with strong knowledge and hands-on experience in <br />
 
-<div style="margin: 10px 0px; border-bottom: solid 1px white;">
-  <a href="https://github.com/zogmwa"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <a href="https://github.com/zogmwa"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></a>
-  <a href="https://github.com/zogmwa"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></a>
-</div>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
-
-## 🧑 About me:
-
-<p>
-Experienced blockchain architect, smart contracts coder and tokenomics expert. <br>
-I have developed more than 50+ websites for clients and delivered large web-based DeFi/web3 and blockchain applications throughout my career.
-I have worked in the financial, capital markets, and payments space and have great experience in the smart contract development and UI integration.
-</p>
-
-<h2>🥇 Specialised in:</h2>
-<p> 🔸 Solidity, Rust, Hardhat, Truffle
-<br>🔸 DeFi, DAO, Play2Earn Game, PancakeSwap, Uniswap V3, Smart Contract, Ethereum, BSC, Polkadot, Avalanche
-<br>🔸 ERC20, ERC721, ERC1155
-<br>🔸 Web3.js, Ether.js, React.js, Redux, Node.js, Next.js, Vue.js
-<br>🔸 Typesecript, Python/Django, PHP/Laravel
-<br>🔸 AWS, Heroku, Digital Ocean
-<p>
-
-<div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pomatechlead&layout=compact&theme=gotham&count_private=true">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=pomatechlead&show_icons=true&theme=gotham&count_private=true">
-</div>
+✅    Solidity, Hardhat, Truffle, Rust <br />
+✅    React, NextJs, JS/TS, Web3, Ethersjs <br />
+✅    DeFi, Dex Vault from Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon, Avalanche, etc) <br />
+✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
 
 <br />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
-</div>
+**Languages and Tools:**  
 
-<br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/220px-Ethereum-icon-purple.svg.png"></code>
+<code><img height="20" src="https://ludu-assets.s3.amazonaws.com/lesson-icons/26/OS6xpcvmIL6y0G3ZQW99"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pomatechlead&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+💗 **Tech Stacks:**
+
+![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Binance-informational?style=flat&logo=binance&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-polygon-informational?style=flat&logo=polygon&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-fantom-informational?style=flat&logo=fantom&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-avalanche-informational?style=flat&logo=avalanche&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+
+
+<a href="https://
+.gg/David-defi-web#4738">
+  <img align="left" alt="David's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/prodavidjin">
+  <img align="left" alt="Kevin.j | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+![](https://visitor-badge.glitch.me/badge?page_id=gobilINC.gobilINC)
+
+<br />
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
