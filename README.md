@@ -50,8 +50,6 @@
 </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=gobilINC.gobilINC)
 
-<br />
-
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 💬 Telegram : https://t.me/pomatechlead <br />
