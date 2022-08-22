@@ -45,7 +45,7 @@
 ![](https://img.shields.io/badge/Framework-Web3.js-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Ether.js-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 
-![](https://visitor-badge.glitch.me/badge?page_id=pomatechlead.pomatechlead)
+![](https://visitor-badge.glitch.me/badge?page_id=gobilINC.gobilINC)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
